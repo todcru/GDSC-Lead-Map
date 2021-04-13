@@ -58,7 +58,7 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		"longitude":11.5034,
+		"longitude": 11.5034,
 		"latitude": 77.2444,
 		"batch": 2020,
 		"photo": Aswin,
